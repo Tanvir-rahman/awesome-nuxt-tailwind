@@ -51,5 +51,7 @@ export default defineNuxtConfig({
     '@nuxtjs/stylelint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    // https://go.nuxtjs.dev/axios
+    '@nuxtjs/axios',
   ],
 })

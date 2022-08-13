@@ -1,5 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Starter with Tailwind
 
+Minimal Nuxt 3 starter template or boilerplate with TailwindCSS.
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
